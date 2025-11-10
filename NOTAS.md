@@ -1,1 +1,2 @@
 # Notas del Proyecto
+Profe le digo que esto esta teso JAJAJA me esta doliendo la cabesa de estar cambiando de terminales de git a visual a cada rato para que esa cosa suba al github, pero melo melo ya estoy entendiendo bien al tema o por lo menos ya teniendo idea JAJAJA
