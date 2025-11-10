@@ -184,3 +184,19 @@ release/ → versiones
 
 hotfix/ → parches urgentes
 
+
+## ¿Qué son?
+Los **GitHub Projects** son tableros de organización que integran issues, pull requests y notas en un mismo lugar.
+
+## ¿Cómo ayudan?
+Permiten planificar, priorizar y dar seguimiento visual al progreso del proyecto.
+
+## Diferencia con Kanban tradicional
+Un Kanban físico o genérico no se conecta al código.  
+Projects se actualiza automáticamente con issues, commits y PRs.
+
+## Automatización
+GitHub permite:
+- Mover issues automáticamente según su estado.
+- Cerrar tareas al hacer merge de un Pull Request.
+- Usar Actions para actualizar el tablero.
