@@ -40,7 +40,7 @@ En Python indica qué líneas pertenecen a un bloque (por ejemplo, dentro de un 
 Si no indentas bien, Python lanza un error:
 
 if True:
-print("Hola")  # ❌ Error: falta indentación
+print("Hola")  # Error: falta indentación
 
 4. Diferencia entre ciclo for y while
 
@@ -72,11 +72,4 @@ range(1, 10) → 1, 2, 3, 4, 5, 6, 7, 8, 9
 range(0, 10, 2) → 0, 2, 4, 6, 8 (el último valor es el paso)
 
 Se usa normalmente en bucles for para repetir acciones.
-
-
-Guarda y sube:
-```bash
-git add investigacion_python.md
-git commit -m "docs: agregar investigación sobre conceptos básicos de Python"
-git push origin main
 
